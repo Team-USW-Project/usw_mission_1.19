@@ -16,16 +16,11 @@ Postman을 이용해 POST 요청과 JSON 데이터 처리 흐름을 학습하는
 ## 📂 프로젝트 구조
 src
 └── main
-
 └── java
-
 └── com.example.demo
-
     └── Application.java
-    
-        └── controller
-        
-            └── ApiController.java
+            └── controller
+                   └── ApiController.java
 
 ## 🚀 실행 방법
 
